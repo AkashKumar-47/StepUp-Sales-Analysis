@@ -3,8 +3,6 @@
 ## 📌 Project Overview  
 This Power BI project analyzes Shopify sales and customer funnel data to drive actionable business decisions. It visualizes key performance areas such as transaction health, customer loyalty, product engagement, and regional performance across the United States.
 
----
-
 ## 💼 Business Problem  
 Shopify stakeholders needed a comprehensive, interactive reporting solution to understand:
 
@@ -14,12 +12,8 @@ Shopify stakeholders needed a comprehensive, interactive reporting solution to u
 
 The goal was to move from static reporting to dynamic insights that could guide operational and marketing strategies.
 
----
-
 ## 🎯 Project Objective  
-To design an interactive Power BI dashboard that provides clarity into sales performance, customer retention, and overall business health—enabling stakeholders to make informed, data-backed decisions.
-
----
+To design an interactive Power BI dashboard that provides clarity into sales performance, customer retention, and overall business health enabling stakeholders to make informed, data-backed decisions.
 
 ## ❓ Key Questions and KPIs  
 
@@ -27,8 +21,6 @@ To design an interactive Power BI dashboard that provides clarity into sales per
 - Which provinces and cities are driving the most revenue?  
 - Are our customers returning? What’s their value over time?  
 - When (hour/day) do most purchases occur?
-
----
 
 ## 📊 KPI Metrics (Overview)  
 This dashboard focuses on KPIs across three key areas:
@@ -38,8 +30,6 @@ This dashboard focuses on KPIs across three key areas:
 - **Retention & Customer Value**  
 
 Each section helps assess profitability, loyalty, and purchasing patterns at both aggregate and granular levels.
-
----
 
 ## 🔧 Project Development Process  
 
@@ -51,16 +41,12 @@ Each section helps assess profitability, loyalty, and purchasing patterns at bot
 6. **Dashboard Design** – Designed visual layout with filters, selectors, and drill-through capability  
 7. **Insight Extraction** – Identified trends, anomalies, and patterns for business decisions  
 
----
-
 ## 🔍 Key Insights  
 
 - **Running Shoes** lead all product categories in total revenue, highlighting a clear customer preference  
 - **California, Texas, and Florida** consistently dominate sales across regions  
 - Over **46% of customers** are repeat buyers, signaling strong customer retention  
 - Most sales occur via **Shopify Payments**, followed by **PayPal** and **Amazon**
-
----
 
 ## ✅ Final Conclusion  
 
