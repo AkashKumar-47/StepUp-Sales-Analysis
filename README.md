@@ -33,13 +33,13 @@ Each section helps assess profitability, loyalty, and purchasing patterns at bot
 
 ## 🔧 Project Development Process  
 
-1. **Requirement Gathering** – Defined business needs and analytical goals  
-2. **Data Acquisition & Profiling** – Reviewed raw Shopify data structure  
-3. **Data Cleaning & Preparation** – Removed inconsistencies and ensured completeness  
-4. **Data Modeling** – Established relationships between tables for accurate aggregations  
-5. **DAX Measures Creation** – Built calculated KPIs and measures for the dashboard  
-6. **Dashboard Design** – Designed visual layout with filters, selectors, and drill-through capability  
-7. **Insight Extraction** – Identified trends, anomalies, and patterns for business decisions  
+1. **Requirement Gathering** : Defined business needs and analytical goals  
+2. **Data Acquisition & Profiling** : Reviewed raw Shopify data structure  
+3. **Data Cleaning & Preparation** : Removed inconsistencies and ensured completeness  
+4. **Data Modeling** : Established relationships between tables for accurate aggregations  
+5. **DAX Measures Creation** : Built calculated KPIs and measures for the dashboard  
+6. **Dashboard Design** : Designed visual layout with filters, selectors, and drill-through capability  
+7. **Insight Extraction** : Identified trends, anomalies, and patterns for business decisions  
 
 ## 🔍 Key Insights  
 
